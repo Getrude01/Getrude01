@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Backend Developer | Learner at ALX Software Engineering Program</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=getrude&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?Getrude01=getrude&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
   <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
