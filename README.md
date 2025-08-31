@@ -38,13 +38,13 @@
 
 ## 📂 Featured Projects  
 
-🔹 **[Task Manager API](https://github.com/[username]/[repo])**  
+🔹 **[Task Manager API](https://github.com/[Getrude01]/[repo])**  
 *A RESTful API that helps users create, update, and manage tasks, built with Flask/Django. Showcases CRUD operations and JWT authentication.*  
 
-🔹 **[E-commerce Backend](https://github.com/[username]/[repo])**  
+🔹 **[E-commerce Backend](https://github.com/[Getrude01]/[repo])**  
 *Scalable backend system handling products, users, orders, and payments, with database design and authentication.*  
 
-🔹 **[Blog API](https://github.com/[username]/[repo])**  
+🔹 **[Blog API](https://github.com/[Getrude01]/[repo])**  
 *Lightweight backend service with user authentication, post creation, and comments using Django REST Framework.*  
 
 ---
@@ -52,11 +52,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?Getrude01=[Getrude01]&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Getrude01]&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
   <a href="mailto:[getrudengure6@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/[getrudengure]" target="_blank">
+  <a href="[(https://www.linkedin.com/in/getrudengure/)]" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/[your-twitter]" target="_blank">
