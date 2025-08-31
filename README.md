@@ -1,9 +1,9 @@
-## <!-- Banner / Header -->
+<!-- Banner / Header -->
 <h1 align="center">Hi there 👋, I'm Getrude</h1>
 <h3 align="center">🚀 Backend Developer | Learner at ALX Software Engineering Program</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?Getrude01=getrude&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Getrude01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
   <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
@@ -38,13 +38,13 @@
 
 ## 📂 Featured Projects  
 
-🔹 **[Task Manager API](https://github.com/[Getrude01]/[repo])**  
+🔹 **[Task Manager API](https://github.com/Getrude01/task-manager-api)**  
 *A RESTful API that helps users create, update, and manage tasks, built with Flask/Django. Showcases CRUD operations and JWT authentication.*  
 
-🔹 **[E-commerce Backend](https://github.com/[Getrude01]/[repo])**  
+🔹 **[E-commerce Backend](https://github.com/Getrude01/ecommerce-backend)**  
 *Scalable backend system handling products, users, orders, and payments, with database design and authentication.*  
 
-🔹 **[Blog API](https://github.com/[Getrude01]/[repo])**  
+🔹 **[Blog API](https://github.com/Getrude01/blog-api)**  
 *Lightweight backend service with user authentication, post creation, and comments using Django REST Framework.*  
 
 ---
@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Getrude01=Getrude01&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Getrude01&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -64,14 +64,15 @@
 ## 🌐 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:[getrudengure6@gmail.com]">
+  <a href="mailto:[your-email]">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="[(https://www.linkedin.com/in/getrudengure/)]" target="_blank">
+  <a href="https://linkedin.com/in/[getrudengure]" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/[your-twitter]" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
   </a>
 </p>
+
 
